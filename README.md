@@ -9,4 +9,5 @@ Here are some things I've been building of late:
 - :black_nib: [Neural Data Science](https://neural-data-science-course.github.io/) is an open-source course on ML methods for neuroscientist, that I have been developing as a fellow of the [Netherlands eScience Center](https://www.esciencecenter.nl/)
 
 :book: :book: :book:  
+
 Check out my publications here: https://scholar.google.com/citations?user=Ejgtq3gAAAAJ&hl=en
